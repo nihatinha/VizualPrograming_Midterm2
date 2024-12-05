@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopSphere", "LoginProject\ShopSphere.csproj", "{B17F037E-2C18-44D0-A113-4FDFCDA68AAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B17F037E-2C18-44D0-A113-4FDFCDA68AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B17F037E-2C18-44D0-A113-4FDFCDA68AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B17F037E-2C18-44D0-A113-4FDFCDA68AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B17F037E-2C18-44D0-A113-4FDFCDA68AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19E9F02A-5DEF-4898-9160-D5CDA613CD48}
+	EndGlobalSection
+EndGlobal
